@@ -6,7 +6,9 @@ public class TestClass {
 		System.out.println("Test Git2");
 		System.out.println("Test Git3");
 		System.out.println("Test Master3");
-		System.out.println("Test NewBranch");
-		System.out.println("Test NewBranch1");
+		System.out.println("Test NewBranch");		
+		
+	
+		
 	}
 }
