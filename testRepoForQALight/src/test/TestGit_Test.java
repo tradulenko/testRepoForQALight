@@ -6,5 +6,6 @@ public class TestGit_Test {
 	@Test
 	public void testGit(){
 		System.out.println("Test Git");
+		System.out.println("Test Git2");
 	}
 }
