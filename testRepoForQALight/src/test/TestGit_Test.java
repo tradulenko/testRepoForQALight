@@ -7,5 +7,9 @@ public class TestGit_Test {
 	public void testGit(){
 		System.out.println("Test Git");
 		System.out.println("Test Git2");
+
+		System.out.println("Test Git2");
+		System.out.println("Test iss53");
+
 	}
 }
