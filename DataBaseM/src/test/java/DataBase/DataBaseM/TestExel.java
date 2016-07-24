@@ -30,7 +30,7 @@ public class TestExel {
 
 		Map dataTestList1 = excelDriver.getData(getCfgValue("DATA_FILE"), "List1");
 
-		System.out.println("Data " + dataTestList1);
+		System.out.println("Data :" + dataTestList1);
 		
 
 	}
