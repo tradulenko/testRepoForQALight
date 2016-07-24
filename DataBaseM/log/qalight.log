@@ -1,0 +1,22 @@
+2016-24-07 17:08:55   INFO [DataBase.DataBaseM.TestDataBase] : --- Conect MySQL DB --------
+2016-24-07 17:10:01   INFO [DataBase.DataBaseM.TestDataBase] : --- Conect MySQL DB --------
+2016-24-07 17:10:01   INFO [DataBase.DataBaseM.Database] :  user - sa pass SQL28
+2016-24-07 17:15:51   INFO [DataBase.DataBaseM.TestDataBase] : --- Conect MySQL DB --------
+2016-24-07 17:15:51   INFO [DataBase.DataBaseM.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2016-24-07 17:15:51   INFO [DataBase.DataBaseM.TestDataBase] : --- Conected to MySQL --------
+2016-24-07 17:15:51   INFO [DataBase.DataBaseM.TestDataBase] : --- Test STARTED --------
+2016-24-07 17:15:51   INFO [DataBase.DataBaseM.TestDataBase] :  ----- Test END  -----
+2016-24-07 17:17:11   INFO [DataBase.DataBaseM.TestDataBase] : --- Conect MySQL DB --------
+2016-24-07 17:17:11   INFO [DataBase.DataBaseM.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2016-24-07 17:17:12   INFO [DataBase.DataBaseM.TestDataBase] : --- Conected to MySQL --------
+2016-24-07 17:17:12   INFO [DataBase.DataBaseM.TestDataBase] : --- Test STARTED --------
+2016-24-07 17:17:12   INFO [DataBase.DataBaseM.TestDataBase] :  ----- Test END  -----
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.TestDataBase] : --- Conect MySQL DB --------
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.Database] :  user - old_qa pass PB3Q2F6tdSD9cL3z
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.TestDataBase] : --- Conected to MySQL --------
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.TestDataBase] : --- Test STARTED --------
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.TestDataBase] : value -- [[, id, login, pass], [1, 1, G15, THE BEST], [2, 3, login3, blablabla], [3, 13, loginnew, passnew], [4, 14, login3, pass3], [5, 15, login3, pass3], [6, 16, loginnew, passnew], [7, 17, login3, pass3], [8, 18, login3, pass3], [9, 33, Radulenko, Taras], [10, 34, Radulenko1, Taras], [11, 35, Kamenets, Eugene], [12, 37, Golenya, Eugene], [13, 38, Golenya, Eugene], [14, 47, Khodolovskiy, Elisei], [15, 77, UshatovSergii, veryStrongPass], [16, 87, loginNovak, passNovak], [17, 89, Sieara, 123123123], [18, 101, Uglenko, Anton], [19, 102, Uglenko, Anton], [20, 180, Roman, Password], [21, 321, G12AAA, 7878], [22, 456, G12A, 4714], [23, 555, G12marina, 1111], [24, 666, Roma_G12, superpuperPassw], [25, 676, G12anna, 1111], [26, 771, G12AAA, aaa], [27, 777, G12daria, 1111], [28, 888, login, pass], [29, 1222, G12anna, 12345], [30, 1231, G12taras, 1111], [31, 4563, Ro66999, qwerrtt], [32, 6768, G12anna, 1111], [33, 6798, G12anna, 1111], [34, 7757, G12, 1111], [35, 7767, G12, 1111], [36, 7777, G12taras, 1111], [37, 7778, G12daria, 1111], [38, 7787, G12, 1111], [39, 8000, G12Taras, 1111], [40, 9000, G12Taras, 1111], [41, 9100, G12Taras, 1111], [42, 9200, G12Taras, 1111], [43, 9231, G12taras, 1111], [44, 11111, sdfsdf21, sdsdv], [45, 12345, login777, pass], [46, 14125, G15_Maslovskyj, qwazsxdc], [47, 45653, Ro66999, qwerrtt], [48, 60606, G12daria, 123456], [49, 60607, G12daria, 123456], [50, 60608, G12daria, 123456], [51, 60609, G12daria, 123456], [52, 60610, G12daria, 123456], [53, 66666, Roma_G12, superpuperPassw], [54, 77786, G12daria, 1111], [55, 99987, Savchuk, test], [56, 99999, G15, THE BEST], [57, 122112, VAsya, cool], [58, 27012058, G12denis, 1991], [59, 270192058, G12denis, 1991], [60, 456321456, Roman66, qwerrtt], [61, 456321457, mara, newPass]]
+2016-24-07 17:18:19   INFO [DataBase.DataBaseM.TestDataBase] :  ----- Test END  -----
+2016-24-07 17:26:34   INFO [DataBase.DataBaseM.TestExel] : --------- TEST STARTED -------------
+2016-24-07 17:26:34   INFO [DataBase.DataBaseM.ExcelDriver] : dataSize - 13
+2016-24-07 17:26:34   INFO [DataBase.DataBaseM.TestExel] : --------- TEST END  -------------
